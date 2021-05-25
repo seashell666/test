@@ -5,6 +5,7 @@ after adding address
    - 优点：操作方法多，灵活，直观
    - 缺点:占用内存
 1105592115@qq.com
+     stupid guy 
 2. 迭代器
 zouyehang
    - 可更新迭代的数据结构
